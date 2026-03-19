@@ -3,11 +3,14 @@ Analyzed video game sales and review data using SQL to uncover differences betwe
 
 ## Results
 
-### Best selling games
-![Games](Best_selling_games.jpg)
+<p align="center">
+  <img src="Best_selling_games.jpg" width="800">
+</p>
 
-### Critics Top Ten Years
-![Critics](Critics_top_ten_years.jpg)
+<p align="center">
+  <img src="Critics_top_ten_years.jpg" width="800">
+</p>
 
-### Golden Years
-![Golden Years](Golden_years.jpg)
+<p align="center">
+  <img src="Golden_years.jpg" width="800">
+</p>
