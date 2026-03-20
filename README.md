@@ -10,6 +10,7 @@ Analyzed video game sales and review data using SQL to uncover differences betwe
 ## 🛠️ Tools Used
 - SQL (PostgreSQL)
 - Tableau Desktop
+- Excel
 
 ## 📊 Results
 
