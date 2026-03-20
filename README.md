@@ -26,3 +26,9 @@ Analyzed video game sales and review data using SQL to uncover differences betwe
 <p align="center">
   <img src="Golden_years.png" width="800">
 </p>
+
+## 📊 Tableau Dashboard
+
+<p align="center">
+  <img src="Critics_vs_user_analysis.png" width="900">
+</p>
